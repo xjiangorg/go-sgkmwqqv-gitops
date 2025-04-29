@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-sgkmwqqv-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/go-sgkmwqqv-gitops
